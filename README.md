@@ -1,4 +1,4 @@
-# 🌊 Columbia River Binary Tree Project
+# Columbia River Binary Tree Project
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Running the Program
+## Running the Program
 
 ### Compile and Run
 
@@ -28,7 +28,7 @@ To compile and run the unit tests:
 
 ---
 
-## 🌳 System Design & Structure
+## System Design & Structure
 
 [cite_start]The river system is modeled as a binary tree, where each **RiverNode** object stores either a **tributary** or a **dam**, but never both[cite: 30].
 
@@ -39,7 +39,7 @@ To compile and run the unit tests:
 
 ---
 
-## ✨ Program Features (Menu)
+## Program Features (Menu)
 
 [cite_start]Users select their choice from the menu by typing a number from 1-5[cite: 13]:
 
