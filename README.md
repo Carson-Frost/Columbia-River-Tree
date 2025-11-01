@@ -3,13 +3,12 @@
 
 ---
 
-This project models the Columbia River and its watershed using a binary tree structure implemented in C++. The program allows for traversal of river features, addition of new tributaries and dams, and the output of key system information.
-
-| Project Team |
-| :--- |
-| Carson Frost, Joe Mock, Charlie Serafin, Jessica Sun |
+This project models the Columbia River and its watershed using a binary tree structure implemented in C++. This was made as part of an assignment in my Algorithms and Data Structures class. The program allows for traversal of river features, addition of new tributaries and dams, and the output of key system information.
 
 ---
+Example of printed tree, with lines added to help make format clear:
+
+![Tree example](images/tree_example.png)
 
 ## Running the Program
 
@@ -59,13 +58,5 @@ The project stores specific attributes for tributaries and dams:
 | :--- | :--- | :--- |
 | Tributary | Length, Basin Size, Discharge | Approximate values are used primarily to demonstrate information storage and display. |
 | Dam | Relevant attributes (different from tributary info) | The design includes separate constructors for Dams and Tributaries because their required information differs. |
-
----
-
-## Visual Example
-
-Example of printed tree, with lines added to help make format clear:
-
-![Tree example](images/tree_example.png)
 
 ---
